@@ -1,0 +1,5 @@
+def first(x)
+    x[0]
+end
+
+first((true,false,3,4))

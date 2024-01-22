@@ -1,0 +1,9 @@
+def f a = a end 
+
+def g a = 
+let x = 1 in 
+let y = 2 in 
+(f (x+y)) * 3
+end
+
+g 1 

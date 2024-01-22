@@ -1,0 +1,5 @@
+def f x y =
+(x,y)
+end 
+
+istuple((f 1 2))

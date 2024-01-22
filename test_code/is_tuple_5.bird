@@ -1,0 +1,5 @@
+def question tuple = 
+ istuple(tuple) 
+ end
+
+question (if true then (3,2) else false)

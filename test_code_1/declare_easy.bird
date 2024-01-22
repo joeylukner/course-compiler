@@ -1,0 +1,2 @@
+(*This code subtracts three from 33*)
+let x = after(32) in before(before(before(x)))

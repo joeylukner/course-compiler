@@ -1,0 +1,8 @@
+def mystery f x y =
+f x y
+end
+def times a b = 
+a * b 
+end 
+
+mystery times 3 6

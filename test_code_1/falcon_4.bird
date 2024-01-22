@@ -1,0 +1,5 @@
+def times x y = 
+x * y 
+end
+
+times 14 2

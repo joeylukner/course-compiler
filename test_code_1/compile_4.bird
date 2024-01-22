@@ -1,0 +1,5 @@
+def f x =
+ 0 end
+def f y =
+y end
+f 0

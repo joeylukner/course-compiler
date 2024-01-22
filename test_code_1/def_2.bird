@@ -1,0 +1,9 @@
+def f x =
+  x * 2
+end
+
+def g y =
+  y + 4
+end
+
+print(true)
